@@ -1,2 +1,2 @@
 # zchat
-JavaWeb Chat OnLine Program
+You can chat on line with others 
